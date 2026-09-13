@@ -162,7 +162,7 @@ class ProfileScreen extends StatelessWidget {
                   _buildProfileField(
                     label: 'Name',
                     content: const Text(
-                      'Diluka',
+                      'Kukarakshan',
                       style: TextStyle(
                         fontSize: 15,
                         color: Colors.black87,
@@ -186,7 +186,7 @@ class ProfileScreen extends StatelessWidget {
                         ),
                         SizedBox(width: 8),
                         Text(
-                          'diluka.w@nsbm.ac.lk',
+                          'kukarakshan@nsbm.ac.lk',
                           style: TextStyle(
                             fontSize: 15,
                             color: Colors.black87,
